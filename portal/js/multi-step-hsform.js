@@ -1,7 +1,7 @@
-function multi_part_hsform(hub_id, form_id) {
+function multi_part_hsform(hub_id, hsform_id, formid) {
   hbspt.forms.create({
     portalId: hub_id,
-    formId: form_id,
+    formId: hsform_id,
     onFormReady: function ($form) {
       $(formid).addClass('form-loaded');
       $(formid + ' .hs-richtext')
