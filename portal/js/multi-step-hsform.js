@@ -28,7 +28,7 @@ function multi_part_hsform(formid) {
           dataStep +
           '"><div class="from-step" data-filter="' +
           dataStep +
-          '">{{ module.theme_settings.step_label }} ' +
+          '">Setp ' +
           step +
           '</div></div>',
       );
@@ -37,13 +37,13 @@ function multi_part_hsform(formid) {
     $(formid + ' .form-step-content').each(function () {
       if (!$(this).find('.hs-button.primary').length > 0) {
         $(this).append(
-          '<a class="hs-button primary prev-btn "><i class="fa fa-angle-left"></i> {{ module.theme_settings.previous_button_text }} </a>  <a class="hs-button disable primary next-btn">{{ module.theme_settings.next_button_text }} <i class="fa fa-angle-right"></i></a>',
+          '<a class="hs-button primary prev-btn "><i class="fa fa-angle-left"></i> Previous </a>  <a class="hs-button disable primary next-btn">Next <i class="fa fa-angle-right"></i></a>',
         );
       } else {
         $(this)
           .find('.actions')
           .prepend(
-            '<a class="hs-button primary prev-btn"><i class="fa fa-angle-left"></i> {{ module.theme_settings.previous_button_text }} </a> <a class="hs-button  primary next-btn submit_btn">Submit</a>',
+            '<a class="hs-button primary prev-btn"><i class="fa fa-angle-left"></i> Previous </a> <a class="hs-button  primary next-btn submit_btn">Submit</a>',
           );
       }
     });
