@@ -224,3 +224,5 @@ function multi_part_hsform(hub_id, form_id) {
     },
   });
 }
+
+window.multi_part_hsform = multi_part_hsform;
