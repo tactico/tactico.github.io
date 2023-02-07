@@ -1,0 +1,305 @@
+.hbspt-form.dnd_area-row-0-background-image {
+  background-attachment: fixed;
+  background-position: center 130px !important;
+}
+
+.hbspt-form .hs-button {
+  font-size: 15px;
+}
+
+.hbspt-form .submitted-message {
+  color: #00a11f;
+  font-family: 'OpenSans-Light', sans-serif;
+  font-size: 14px;
+  line-height: 26px;
+  letter-spacing: 1px;
+  font-weight: 500;
+  margin: 0 0 5px 0;
+}
+
+.hbspt-form form .hs-input:hover {
+  border: 1px solid #c8221b;
+}
+
+.hbspt-form [id^=jarallax-container] {
+  -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+  clip: unset !important;
+}
+
+.hbspt-form .hs-button {
+  font-size: 14px;
+}
+
+.hbspt-form .hs-form-field:last-child ul.inputs-list.multi-container input[type=checkbox] {
+  margin-top: 5px;
+  margin-right: 3px;
+}
+
+.contact-section .inner {
+  margin: 0px -15px;
+}
+
+.contact-section .inner>div {
+  padding: 96px 15px;
+  width: 50%;
+  float: left;
+}
+
+.contact-section .inner .content {
+  padding-top: 150px;
+}
+
+.contact-section.jarallax>div.content-wrapper {
+  z-index: 9 !important;
+  position: relative;
+}
+
+.hbspt-form ul {
+  list-style: none;
+}
+
+.hbspt-form h3 {
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 34px;
+  line-height: 38px;
+  letter-spacing: 5px;
+}
+
+.hbspt-form p {
+  color: #fff;
+  font-size: 15px;
+  line-height: 26px;
+  letter-spacing: 1px;
+  padding: 17px 40px 9px 0;
+  margin-bottom: 28px;
+  font-family: 'OpenSans-Light', sans-serif;
+}
+
+/*.hbspt-form .input {
+  margin: 0 !important;
+}*/
+
+.contact-section .content>div {
+  padding-left: 30px;
+}
+
+
+.hbspt-form label {
+  margin: 0;
+  color: #9c9c9c !important;
+  font-family: 'OpenSans-Light', sans-serif;
+  font-size: 14px;
+  line-height: 26px;
+  letter-spacing: 1px;
+  font-weight: 600 !important;
+}
+
+.hbspt-form form .hs-input {
+  background: transparent;
+  border: 1px solid #7a7a7a;
+  color: #9c9c9c;
+  padding: 10px;
+  transition: .2s ease;
+  font-family: 'OpenSans-Light', sans-serif;
+  font-size: 14px;
+  line-height: 26px;
+  letter-spacing: 1px;
+  border-radius: 0px;
+}
+
+.hbspt-form form .hs-input:focus {
+  border: 1px solid #90100b;
+}
+
+.hbspt-form .inputs-list:first-child {
+  padding-top: 0;
+}
+
+.hbspt-form .hs-form-field {
+  margin-bottom: 15px !important;
+}
+
+.contact-section .form-columns-2 .hs-form-field {
+  width: 48.717948717948715% !important;
+}
+
+.contact-section .form-columns-2 .hs-form-field:last-child {
+  margin-left: 2.564102564102564%;
+}
+
+.hbspt-form ul.inputs-list.multi-container li {
+  float: left;
+  width: auto;
+  min-width: 70px;
+  padding: 0 !important;
+}
+
+.hbspt-form.inputs-list.multi-container li label {
+  display: flex;
+  align-items: flex-start;
+}
+
+.hbspt-form ul.inputs-list.multi-container {
+  display: flex;
+  padding-top: 7px;
+}
+
+.hbspt-form ul.inputs-list.multi-container li label span {
+  color: #9c9c9c;
+  font-family: 'OpenSans-Light', sans-serif;
+  font-size: 14px;
+  letter-spacing: 1px;
+  display: block;
+  float: none;
+  width: auto;
+  font-weight: 500;
+  padding-left: 10px;
+  padding-top: 1px;
+}
+
+.hbspt-form .hs-form-field:last-child ul.inputs-list.multi-container {
+  padding: 0 !important;
+}
+
+/*.hbspt-form .hs-form-field ul.inputs-list.multi-container input[type=radio] {
+  margin-top: 7px;
+}*/
+
+/*.hbspt-form .hs-form-field:last-child ul.inputs-list.multi-container input[type=checkbox] {
+  margin-top: 5px;
+  margin-right: 9px;
+}*/
+
+
+
+.hbspt-form .hs-form-field:last-child ul.inputs-list.multi-container li span {
+  font-weight: 600 !important;
+  padding-top: 0 !important;
+}
+
+.hbspt-form label.hs-form-radio-display {
+  display: flex;
+  align-items: center;
+}
+
+.hbspt-form label.hs-form-checkbox-display {
+  display: flex;
+}
+
+.hbspt-form .inputs-list {
+  margin: 0;
+}
+
+.hbspt-form .hs-button {
+  padding: 10px 60px;
+  width: 250px;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  margin-top: 5px;
+  line-height: 26px;
+  font-family: 'Dosis-SemiBold', sans-serif;
+  letter-spacing: 5px;
+  transition: all linear .2s;
+  border: none;
+  cursor: pointer;
+  margin-bottom: 22px;
+}
+
+ul.investor-features {
+  padding-left: 70px;
+}
+
+.hbspt-form ul.investor-features li {
+  color: #fff;
+  font-size: 15px;
+  line-height: 26px;
+  letter-spacing: 1px;
+  padding: 0 0 10px 25px;
+  font-family: 'OpenSans-Light', sans-serif;
+  text-align: left;
+  background: url(https://tactico.com/hubfs/raw_assets/public/Tactico_February_2021/images/bullet.png) no-repeat 0 7px;
+}
+
+@media(max-width:991px) {
+
+  .contact-section .inner>div {
+    width: 100%;
+    padding: 64px 15px 32px;
+  }
+
+  .contact-section .hs-form-field:last-child ul.inputs-list.multi-container li span {
+    padding-left: 5px;
+  }
+
+  .contact-section {
+    position: relative;
+    background: #111 !important;
+  }
+
+
+  .contact-section h3 {
+    font-size: 25px;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+  }
+
+  .contact-section .inner .content {
+    padding-top: 0;
+    padding-bottom: 44px;
+  }
+
+  .contact-section .inner .content>div {
+    padding: 0;
+  }
+
+  .contact-section .content ul {
+    padding: 0;
+  }
+
+}
+
+@media(max-width:600px) {
+
+  .contact-section p {
+    padding-right: 0;
+  }
+
+  .contact-section {
+    text-align: center;
+  }
+
+  .contact-section .form-columns-2 .hs-form-field {
+    width: 100% !important;
+    margin: 0 0 20px 0 !important;
+  }
+
+  .contact-section .hs-form-field:last-child ul.inputs-list.multi-container {
+    padding-top: 10px !important;
+    padding-left: 4px !important;
+  }
+
+  .contact-section .hs-button {
+    margin-top: 0;
+  }
+
+  .contact-section .hs-form-field:last-child ul.inputs-list.multi-container li span {
+    padding-left: 0;
+  }
+
+}
+
+@media(max-width:479px) {
+
+  .contact-section.fr .hs-form-field:last-child ul.inputs-list.multi-container input[type=checkbox] {
+    margin-top: 5px;
+    margin-right: 7px;
+  }
+
+  .contact-section.fr .hs-form-field:last-child ul.inputs-list.multi-container[role="checkbox"] {
+    padding-left: 0 !important;
+  }
+
+}

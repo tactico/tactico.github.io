@@ -1,0 +1,129 @@
+#formCompanyOnline.ms-survey-from .hs-button.primary,
+#formCompanyOnline.ms-survey-from input[type='submit'],
+#formCompanyOnline.ms-survey-from input[type='button'] {
+  border: 1px solid rgba(200, 34, 27, 1);
+  color: rgba(255, 255, 255, 1);
+  background-color: rgba(200, 34, 27, 1);
+}
+
+#formCompanyOnline.ms-survey-from .hs-button.primary:hover,
+#formCompanyOnline.ms-survey-from input[type='submit']:hover,
+#formCompanyOnline.ms-survey-from input[type='button']:hover {
+  color: rgba(200, 34, 27, 1);
+  border-color: rgba(200, 34, 27, 1);
+  background-color: transparent;
+}
+
+#formCompanyOnline .from-step {
+  background: rgba(17, 17, 17, 1);
+  color: rgba(255, 255, 255, 1);
+}
+
+#formCompanyOnline .from-step:before {
+  background: rgba(200, 34, 27, 1);
+}
+#formCompanyOnline .from-step-outer:before {
+  background: rgba(255, 255, 255, 1);
+}
+
+#formCompanyOnline .from-step-outer.active .from-step {
+  background: rgba(200, 34, 27, 1);
+}
+
+#formIndividualOnline.ms-survey-from .hs-button.primary,
+#formIndividualOnline.ms-survey-from input[type='submit'],
+#formIndividualOnline.ms-survey-from input[type='button'] {
+  border: 1px solid rgba(200, 34, 27, 1);
+  color: rgba(255, 255, 255, 1);
+  background-color: rgba(200, 34, 27, 1);
+}
+
+#formIndividualOnline.ms-survey-from .hs-button.primary:hover,
+#formIndividualOnline.ms-survey-from input[type='submit']:hover,
+#formIndividualOnline.ms-survey-from input[type='button']:hover {
+  color: rgba(200, 34, 27, 1);
+  border-color: rgba(200, 34, 27, 1);
+  background-color: transparent;
+}
+
+#formIndividualOnline .from-step {
+  background: rgba(17, 17, 17, 1);
+  color: rgba(255, 255, 255, 1);
+}
+
+#formIndividualOnline .from-step:before {
+  background: rgba(200, 34, 27, 1);
+}
+
+#formIndividualOnline .from-step-outer:before {
+  background: rgba(255, 255, 255, 1);
+}
+
+#formIndividualOnline .from-step-outer.active .from-step {
+  background: rgba(200, 34, 27, 1);
+}
+#formIndividualOnline.ms-survey-from .hs-button.primary,
+#formIndividualOnline.ms-survey-from input[type='submit'],
+#formIndividualOnline.ms-survey-from input[type='button'] {
+  border: 1px solid rgba(200, 34, 27, 1);
+  color: rgba(255, 255, 255, 1);
+  background-color: rgba(200, 34, 27, 1);
+}
+
+#formIndividualOnline.ms-survey-from .hs-button.primary:hover,
+#formIndividualOnline.ms-survey-from input[type='submit']:hover,
+#formIndividualOnline.ms-survey-from input[type='button']:hover {
+  color: rgba(200, 34, 27, 1);
+  border-color: rgba(200, 34, 27, 1);
+  background-color: transparent;
+}
+
+#formIndividualOnline .from-step {
+  background: rgba(17, 17, 17, 1);
+  color: rgba(255, 255, 255, 1);
+}
+
+#formIndividualOnline .from-step:before {
+  background: rgba(200, 34, 27, 1);
+}
+
+#formIndividualOnline .from-step-outer:before {
+  background: rgba(255, 255, 255, 1);
+}
+
+#formIndividualOnline .from-step-outer.active .from-step {
+  background: rgba(200, 34, 27, 1);
+}
+
+#formCompanyPhone.ms-survey-from .hs-button.primary,
+#formCompanyPhone.ms-survey-from input[type='submit'],
+#formCompanyPhone.ms-survey-from input[type='button'] {
+  border: 1px solid rgba(200, 34, 27, 1);
+  color: rgba(255, 255, 255, 1);
+  background-color: rgba(200, 34, 27, 1);
+}
+
+#formCompanyPhone.ms-survey-from .hs-button.primary:hover,
+#formCompanyPhone.ms-survey-from input[type='submit']:hover,
+#formCompanyPhone.ms-survey-from input[type='button']:hover {
+  color: rgba(200, 34, 27, 1);
+  border-color: rgba(200, 34, 27, 1);
+  background-color: transparent;
+}
+
+#formCompanyPhone .from-step {
+  background: rgba(17, 17, 17, 1);
+  color: rgba(255, 255, 255, 1);
+}
+
+#formCompanyPhone .from-step:before {
+  background: rgba(200, 34, 27, 1);
+}
+
+#formCompanyPhone .from-step-outer:before {
+  background: rgba(255, 255, 255, 1);
+}
+
+#formCompanyPhone .from-step-outer.active .from-step {
+  background: rgba(200, 34, 27, 1);
+}
