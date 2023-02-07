@@ -1,6 +1,5 @@
 function multi_part_hsform(formid) {
   return function ($form) {
-    var formid = '#{{ module.unique_id }}';
     $(formid).addClass('form-loaded');
     $(formid + ' .hs-richtext')
       .parent()
